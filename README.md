@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## I'm student of CS in Hive Helsinki!
 
-- 🌱 I’m currently learning mainly C, Bash and Unix distributions
+- 🌱 I’m currently focusing my studies to C, Bash, Unix distributions and of course problem solving!
 - 🥅 2022 Goals: Learn more high level developer languages!
 - ⚡ Fun fact: I love to play guitar!
 
