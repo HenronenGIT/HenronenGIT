@@ -28,8 +28,7 @@ You can find me on:<br>
 <img  alt="C language" width="40x" src="https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667" style="padding-right:10px;">
 <img  alt="Terminal" width="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="padding-right:10px;">
 </div><hr>
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+<div style="display: flex; flex-direction: row;">
+<img src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="44%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight">
+</div>
