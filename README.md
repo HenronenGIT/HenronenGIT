@@ -16,7 +16,7 @@ You can find me on:<br>
 - 🌱 I'm currently focusing my studies to C, Python, Bash, Unix distributions and of course problem solving!
 - 🥅 2022 Goals: Learn more high level developer languages!
 - ⚡ Fun fact: I love to play guitar!
-<h1 align="center"><Languages and Tools<hr>
+<h1 align="center">Languages and Tools</h1>
 <div align="center" style="display: inline_block">
  <img  alt="C language" width="40x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;">
 <img  alt="Python" width="40px"src="https://camo.githubusercontent.com/aa96ee3a3352c9c3c2161d3e95698d0885a277ab85d617fe77912627d37a3959/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f707974686f6e2e737667" style="padding-right:10px;">
@@ -27,8 +27,9 @@ You can find me on:<br>
 <img alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667" style="padding-right:10px;">
 <img  alt="C language" width="40x" src="https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667" style="padding-right:10px;">
 <img  alt="Terminal" width="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="padding-right:10px;">
-</div><hr>
-<div style="display: flex; flex-direction: row;">
+</div>
+<div align="center" style="display: flex; flex-direction: row;">
+ <h2> GitHub Stats</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="415px">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight">
 </div>
