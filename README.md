@@ -1,23 +1,9 @@
 
-<!--
-**HenronenGIT/HenronenGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey stalker 👀, my name is Henri 👋
+## Currently I am student in Coding School [Hive Helsinki!](https://www.hive.fi/en/ "Hive Helsinki!")
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Henri 👋 
-
-## I'm student of CS in Hive Helsinki!
-
-- 🌱 I’m currently focusing my studies to C, Bash, Unix distributions and of course problem solving!
+- 🌱 I'm currently focusing my studies to C, Bash, Unix distributions and of course problem solving!
 - 🥅 2022 Goals: Learn more high level developer languages!
 - ⚡ Fun fact: I love to play guitar!
 
