@@ -1,21 +1,16 @@
 
 <h1 align="center">
 Hey stalker 👀, my name is Henri 👋<br>
-</h1>
-
-<h1 align="center">
-⏩ TLDR ⏩
-</h1>
-
-<h2 align="center">
 I'm currently student at Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki!</a><br>
+
 You can find me on:<br>
 <a href="https://www.linkedin.com/in/henri-maronen-60a242227/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" style="padding-right:10px;" width="40px">
  </a></h2>
 
-- 🌱 I'm currently focusing my studies to C, Python, Bash, Unix distributions and of course problem solving!
-- 🥅 2022 Goals: Learn more high level developer languages!
-- ⚡ Fun fact: I love to play guitar!
+<p align="center">🌱 I'm currently focusing my studies to C, Python, Bash, Unix distributions and of course problem solving!</p>
+<p align="center">🥅 2022 Goals: Learn more high level developer languages!</p>
+<p align="center">🎸 Fun fact: I love to play guitar!</p>
+
 <h1 align="center">Languages and Tools</h1>
 <div align="center" style="display: inline_block">
  <img  alt="C language" width="40x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;">
