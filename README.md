@@ -7,7 +7,7 @@ You can find me on:<br>
 <a href="https://www.linkedin.com/in/henri-maronen-60a242227/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" style="padding-right:10px;" width="40px">
  </a></h2>
 
-<p align="center">🌱 I'm currently focusing my studies to C, Python, Bash, Unix distributions and of course problem solving!</p>
+<p align="center">🌱 I'm currently focusing my studies to C, Python, React, Unix distributions and of course problem solving!</p>
 <p align="center">🥅 2022 Goals: Learn more high level developer languages!</p>
 <p align="center">🎸 Fun fact: I love to play guitar!</p>
 
