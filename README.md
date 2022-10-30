@@ -45,6 +45,6 @@
  
 <div align="center" style="display: flex; flex-direction: row;">
  <h2> GitHub Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="415px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="40%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight" width="34%">
 </div>
