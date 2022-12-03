@@ -6,7 +6,7 @@
 <p align="center" >💻 I'm currently student at Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p>
 <p align="center">🐜 Check out my most recent project <a href="https://github.com/HenronenGIT/lem-in">lem-in - Pathfinding Algorithm</a>
 
-<h1 align="center">🌱 My main focus at the moment:</h1>
+<h1 align="center">🌱 Project that I have done:</h1>
  
  <h3 align="center">⎔ Algorithms ⎔</h3>
  <h4 align="center">
