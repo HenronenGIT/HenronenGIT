@@ -6,20 +6,26 @@
 <p align="center" >💻 I'm currently student at Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p>
 <p align="center">🐜 Check out my most recent project <a href="https://github.com/HenronenGIT/lem-in">lem-in - Pathfinding Algorithm</a>
 
-<h1 align="center">🌱 Project that I have done:</h1>
+<h1 align="center">🌱 Projects that I have done:</h1>
  
  <h3 align="center">⎔ Algorithms ⎔</h3>
  <h4 align="center">
   <a href="https://github.com/HenronenGIT/lem-in">Lem-in</a> •
   <a href="https://github.com/HenronenGIT/Push_swap">Push-swap</a> •
-  <a href="https://github.com/HenronenGIT/ft_printf">ft_printf</a>
+  <a href="https://github.com/HenronenGIT/ft_printf">ft_printf</a> •
+  <a href="https://github.com/HenronenGIT/Fillit">Fillit</a>
  </h4>
 
  <h3 align="center">⎔ Web Development ⎔</h3>
   <h4 align="center">
-   <a href="https://github.com/HenronenGIT/fullstackopen_2022">Full Stack Open 2022</a>
+   <a href="https://github.com/HenronenGIT/fullstackopen_2022">Full Stack Open 2022</a> •
+   <a href="https://github.com/HenronenGIT/Docker-1">Docker-1</a>
  </h4>
 
+<h3 align="center">⎔ System and Network Administration ⎔</h3>
+<h4 align="center">
+   <a href="https://github.com/HenronenGIT/roger-skyline-1">Roger-Skyline-1</a>
+ </h4>
  <div align="center" text-align="center">
  
 <!--   <p align="center">🥅 2022 Goals: Graduate from <a href="https://www.hive.fi/en/"> Hive Helsinki</a></p> -->
