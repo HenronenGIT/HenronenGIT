@@ -10,6 +10,7 @@
  
  <h3 align="center">⎔ Algorithms ⎔</h3>
  <h4 align="center">
+  <a href="https://github.com/HenronenGIT/corewar">Corewar</a> •
   <a href="https://github.com/HenronenGIT/lem-in">Lem-in</a> •
   <a href="https://github.com/HenronenGIT/Push_swap">Push-swap</a> •
   <a href="https://github.com/HenronenGIT/ft_printf">ft_printf</a> •
