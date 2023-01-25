@@ -1,14 +1,22 @@
 
 <h1 align="center">Hey you, my name is Henri! 👋
- <a href="https://www.linkedin.com/in/henri-maronen-60a242227/"><img  src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" align="right" width="40px">
+ <a href="https://www.linkedin.com/in/henri-maronen-60a242227/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" align="right" width="40px"">
  </h1>
 
-<p align="center" >💻 I'm currently student at Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p>
-<p align="center">🐜 Check out my most recent project <a href="https://github.com/HenronenGIT/lem-in">lem-in - Pathfinding Algorithm</a>
+<p align="center" >💻 I'm currently student at a Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p>
+
+<p align="center">🐜 Check out my most recent project <a href="https://github.com/HenronenGIT/lem-in">lem-in - Pathfinding Algorithm</a></p>
 
 <h1 align="center">🌱 Projects that I have done:</h1>
  
- <h3 align="center">⎔ Algorithms ⎔</h3>
+
+ <h3 align="center">⎔ Web Development ⎔</h3>
+  <h4 align="center">
+   <a href="https://github.com/HenronenGIT/fullstackopen_2022">Full Stack Open 2022</a> •
+   <a href="https://github.com/HenronenGIT/Docker-1">Docker-1</a>
+ </h4>
+
+ <h3 align="center">⎔ Algorithm Projects ⎔</h3>
  <h4 align="center">
   <a href="https://github.com/HenronenGIT/corewar">Corewar</a> •
   <a href="https://github.com/HenronenGIT/lem-in">Lem-in</a> •
@@ -17,22 +25,12 @@
   <a href="https://github.com/HenronenGIT/Fillit">Fillit</a>
  </h4>
 
- <h3 align="center">⎔ Web Development ⎔</h3>
-  <h4 align="center">
-   <a href="https://github.com/HenronenGIT/fullstackopen_2022">Full Stack Open 2022</a> •
-   <a href="https://github.com/HenronenGIT/Docker-1">Docker-1</a>
- </h4>
-
 <h3 align="center">⎔ System and Network Administration ⎔</h3>
 <h4 align="center">
    <a href="https://github.com/HenronenGIT/roger-skyline-1">Roger-Skyline-1</a>
  </h4>
  <div align="center" text-align="center">
  
-<!--   <p align="center">🥅 2022 Goals: Graduate from <a href="https://www.hive.fi/en/"> Hive Helsinki</a></p> -->
-<!-- <p align="center" >🎸 Fun fact: I love to play guitar!</p> -->
-
-<!-- <h1 align="center">Languages and Tools</h1> -->
 <h1 align="center">Languages</h1>
 <div align="center" style="display: inline_block">
  <img  alt="C language" width="40x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;">
@@ -50,8 +48,9 @@
 <img alt="Terminal" width="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="padding-right:20px;">
 </div>
  
-<div align="center" style="display: flex; flex-direction: row;">
- <h2> GitHub Stats</h2>
+<h1> GitHub Stats</h1>
+<div>
 <img src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight" width="34%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight" width="35.5%">
 </div>
+
