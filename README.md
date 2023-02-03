@@ -5,7 +5,7 @@
  </h1> -->
 
 * 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
-* 🌱 Currently I am increasing my skillset by learning TypeScript and MySQL
+* 🌱 Currently I am increasing my skillset by learning TypeScript and Sequalize
 * ⚡️ I keep my mind fresh by:
 	* Exercising
 	* Music
