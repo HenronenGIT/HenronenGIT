@@ -4,34 +4,54 @@
  <a href="https://www.linkedin.com/in/henri-maronen-60a242227/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" align="right" width="40px"">
  </h1> -->
 
-💻 Student at [Hive Helsinki - Coding School]("https://www.hive.fi/en/)
+- 💻 Student at [Hive Helsinki - Coding School]("https://www.hive.fi/en/)
+- 🌱 Currently I am increasing my skillset by learning TypeScript and MySQL
+- ⚡️ I keep my mind fresh, by exercising, music, reading non-fiction, and video editing
 <!-- <p align="center" >💻 I'm currently student at a Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p> -->
 
-<p align="center">🐜 Check out my most recent project <a href="https://github.com/HenronenGIT/lem-in">lem-in - Pathfinding Algorithm</a></p>
-
-<h1 align="center">🌱 Projects that I have done:</h1>
+<!-- <p align="center">🐜 Check out my most recent project <a href="https://github.com/HenronenGIT/lem-in">lem-in - Pathfinding Algorithm</a></p> -->
+## 🔨 Projects
+<!-- <h1 align="center">🔨 Projects that I have done:</h1> -->
  
+### Web 
 
- <h3 align="center">⎔ Web Development ⎔</h3>
-  <h4 align="center">
-   <a href="https://github.com/HenronenGIT/fullstackopen_2022">Full Stack Open 2022</a> •
-   <a href="https://github.com/HenronenGIT/Docker-1">Docker-1</a>
- </h4>
+- [Full Stack Open 2022](https://github.com/HenronenGIT/fullstackopen_2022) - Web with modern tools
+- [Docker-1](https://github.com/HenronenGIT/Docker-1) - Contarinezation
 
- <h3 align="center">⎔ Algorithm Projects ⎔</h3>
+### Problem - Solving
+
+- [Corewar](https://github.com/HenronenGIT/corewar) - The Game that plays itself
+- [Lem-in](https://github.com/HenronenGIT/lem-in) - Pathfinding Algorithm
+- [Push-swap](https://github.com/HenronenGIT/Push_swap) - Sorting Algorithm
+- [ft_printf](https://github.com/HenronenGIT/ft_printf) - Self-made printf()
+- [Fillit](https://github.com/HenronenGIT/Fillit) - Tetris, but not quite
+
+### System and Network Administration
+
+- [Roger-Skyline-1](https://github.com/HenronenGIT/roger-skyline-1) - Introduction to System Administration
+
+
+<!-- - <a href="https://github.com/HenronenGIT/Fillit">Fillit</a> -->
+ <!-- <h3 align="center">⎔ Web Development ⎔</h3> -->
+  <!-- <h4 align="center">
+   <a href="https://github.com/HenronenGIT/fullstackopen_2022">Full Stack Open 2022</a> • -->
+   <!-- <a href="https://github.com/HenronenGIT/Docker-1">Docker-1</a>
+ </h4> -->
+
+ <!-- <h3 align="center">⎔ Algorithm Projects ⎔</h3>
  <h4 align="center">
   <a href="https://github.com/HenronenGIT/corewar">Corewar</a> •
   <a href="https://github.com/HenronenGIT/lem-in">Lem-in</a> •
   <a href="https://github.com/HenronenGIT/Push_swap">Push-swap</a> •
   <a href="https://github.com/HenronenGIT/ft_printf">ft_printf</a> •
   <a href="https://github.com/HenronenGIT/Fillit">Fillit</a>
- </h4>
+ </h4> -->
 
-<h3 align="center">⎔ System and Network Administration ⎔</h3>
-<h4 align="center">
-   <a href="https://github.com/HenronenGIT/roger-skyline-1">Roger-Skyline-1</a>
+<!-- <h3 align="center">⎔ System and Network Administration ⎔</h3> -->
+<!-- <h4 align="center"> -->
+   <!-- <a href="https://github.com/HenronenGIT/roger-skyline-1">Roger-Skyline-1</a> -->
  </h4>
- <div align="center" text-align="center">
+ <!-- <div align="center" text-align="center"> -->
  
 <h1 align="center">Languages</h1>
 <div align="center" style="display: inline_block">
