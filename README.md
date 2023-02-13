@@ -22,7 +22,7 @@
 
 - [Full Stack Open 2022](https://github.com/HenronenGIT/fullstackopen_2022) - Web with modern tech
 - [Docker-1](https://github.com/HenronenGIT/Docker-1) - Containerization
-- [REST api](https://github.com/HenronenGIT/wolt-pre-assignment-backend) - Python backend API with FASTapi
+- [Delivery Fee](https://github.com/HenronenGIT/wolt-pre-assignment-backend) - Python backend API with FASTapi
 
 ### 🧑🏽‍💻 Problem - Solving
 
