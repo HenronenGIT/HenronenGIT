@@ -1,10 +1,25 @@
 
 <img src="./pic/banner.gif"></img>
-<!-- <h1 align="center">Hey you, my name is Henri! 👋
- <a href="https://www.linkedin.com/in/henri-maronen-60a242227/"><img src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" align="right" width="40px"">
- </h1> -->
 
-* 💻 Student at [Hive Helsinki - Coding School]("https://www.hive.fi/en/)
+<h2 align="center">Languages</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+</div>
+
+<h2 align="center">Tech & Tools</h2>
+<div align="center">
+<img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
+<img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+</div>
+
+* 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
 * 🌱 Currently I am increasing my skillset by learning TypeScript and MySQL
 * ⚡️ I keep my mind fresh by:
 	* Exercising
@@ -34,31 +49,8 @@
 ### System and Network Administration
 
 * [Roger-Skyline-1](https://github.com/HenronenGIT/roger-skyline-1) - Introduction to System Administration
-
-<!-- ### Languages -->
-
-<!-- - <a href="https://github.com/HenronenGIT/Fillit">Fillit</a> -->
- <!-- <h3 align="center">⎔ Web Development ⎔</h3> -->
-  <!-- <h4 align="center">
-   <a href="https://github.com/HenronenGIT/fullstackopen_2022">Full Stack Open 2022</a> • -->
-   <!-- <a href="https://github.com/HenronenGIT/Docker-1">Docker-1</a>
- </h4> -->
-
- <!-- <h3 align="center">⎔ Algorithm Projects ⎔</h3>
- <h4 align="center">
-  <a href="https://github.com/HenronenGIT/corewar">Corewar</a> •
-  <a href="https://github.com/HenronenGIT/lem-in">Lem-in</a> •
-  <a href="https://github.com/HenronenGIT/Push_swap">Push-swap</a> •
-  <a href="https://github.com/HenronenGIT/ft_printf">ft_printf</a> •
-  <a href="https://github.com/HenronenGIT/Fillit">Fillit</a>
- </h4> -->
-
-<!-- <h3 align="center">⎔ System and Network Administration ⎔</h3> -->
-<!-- <h4 align="center"> -->
-   <!-- <a href="https://github.com/HenronenGIT/roger-skyline-1">Roger-Skyline-1</a> -->
- </h4>
- <!-- <div align="center" text-align="center"> -->
- 
+ <!-- </h4> -->
+<!--  
 <h1 align="center">Languages</h1>
 <div align="center" style="display: inline_block">
  <img  alt="C language" width="40x" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="padding-right:10px;">
@@ -74,11 +66,11 @@
 <img alt="Visual Studio Code" width="40px" src="https://camo.githubusercontent.com/3913c59c7057f9c9a7f79d63c9753930e69790c8f90fbb375a78686e96165d29/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f76697375616c73747564696f636f64652e737667" style="padding-right:20px;">
 <img  alt="C language" width="40x" src="https://camo.githubusercontent.com/b9279edfece526123a96af67ea002acdd47e84e5ad05126faa08ab3332f8a9ef/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f646f636b65722e737667" style="padding-right:20px;">
 <img alt="Terminal" width="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="padding-right:20px;">
-</div>
+</div> -->
  
 <h1> GitHub Stats</h1>
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="40%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight" width="35.5%">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="40%">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight" width="35.5%">
 </div>
 
