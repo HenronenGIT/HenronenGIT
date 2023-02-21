@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
+## 🧑🏽‍💻About me
 * 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
 * 🌱 Currently I am increasing my skillset by learning TypeScript and MySQL
 * ⚡️ I keep my mind fresh by:
@@ -70,9 +71,9 @@
 <img alt="Terminal" width="40px"src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" style="padding-right:20px;">
 </div> -->
  
-<h1> GitHub Stats</h1>
+<!-- <h1> GitHub Stats</h1>
 <div>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=HenronenGIT&show_icons=true&theme=tokyonight" width="40%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenronenGit&layout=compact&theme=tokyonight" width="35.5%">
 </div>
-
+ -->
