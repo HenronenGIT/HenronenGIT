@@ -36,7 +36,9 @@
 ### 🌏 Web 
 
 - [Full Stack Open 2022](https://github.com/HenronenGIT/fullstackopen_2022) - Web with modern tech
+- [Blog](https://github.com/HenronenGIT/slush-assignment) - Full Stack application made with PERN stack
 - [Docker-1](https://github.com/HenronenGIT/Docker-1) - Containerization
+- [Delivery Fee](https://github.com/HenronenGIT/wolt-pre-assignment-backend) - Python backend API with FASTapi
 
 ### 🧑🏽‍💻 Problem - Solving
 
