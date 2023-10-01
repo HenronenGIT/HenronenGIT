@@ -28,7 +28,7 @@
 </div>
 
 ## 🧑🏽‍💻About me
-* ❄️ Currently working at Slush as a Junior Full Stack Developer
+* ❄️ Currently working at [Slush](https://slush.org/) as a Junior Full Stack Developer
 * 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
 * ⚡️ I keep my mind fresh by:
 	* Exercising regularly
