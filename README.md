@@ -28,13 +28,12 @@
 </div>
 
 ## 🧑🏽‍💻About me
-* 🌱 Currently working at Slush as a Junior Full Stack Developer
+* ❄️ Currently working at Slush as a Junior Full Stack Developer
 * 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
 * ⚡️ I keep my mind fresh by:
-	* Exercising
-	* Music
+	* Exercising regularly
 	* Reading non-fiction
-	* Video Editing
+	* Photography, and video creation
     
 <!-- <p align="center" >💻 I'm currently student at a Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p> -->
 
