@@ -28,8 +28,8 @@
 </div>
 
 ## 🧑🏽‍💻About me
+* 🌱 Currently working at Slush as a Junior Full Stack Developer
 * 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
-* 🌱 Currently I am increasing my skillset by learning TypeScript and MySQL
 * ⚡️ I keep my mind fresh by:
 	* Exercising
 	* Music
