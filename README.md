@@ -31,9 +31,9 @@
 * ❄️ Currently working at [Slush](https://slush.org/) as a Junior Full Stack Developer
 * 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
 * ⚡️ I keep my mind fresh by:
-	* Exercising regularly
 	* Reading non-fiction
-	* Photography, and video creation
+   	* Hitting the gym
+	* Staying up to date on the latest tech
     
 <!-- <p align="center" >💻 I'm currently student at a Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p> -->
 
