@@ -27,19 +27,15 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
 </div>
 
-## 🧑🏽‍💻About me
-* ❄️ Currently present at [Slush](https://slush.org/) as a Full Stack Developer
-* 💻 Student at [Hive Helsinki - Coding School](https://www.hive.fi/en/)
-* ⚡️ I keep my mind fresh by:
-	* Reading non-fiction.
-	* Staying up to date on the latest tech.
-  	* Sport of many kinds.
-    
-<!-- <p align="center" >💻 I'm currently student at a Coding School <a href="https://www.hive.fi/en/"> Hive Helsinki</a>.</p> -->
+# 🧑🏽‍💻 Who am I
+- ❄️ Currently shaping digital products at [Slush](https://slush.org/)
+- 💻 Graduate of [Hive Helsinki](https://www.hive.fi/en/)
+- ⚡️ Offline, you'll find me:
+  - Absorbing ideas through books and podcasts 📚
+  - Competing on the padel court 🎾
+  - Framing landscapes through a viewfinder 📷
 
-<!-- <p align="center">🐜 Check out my most recent project <a href="https://github.com/HenronenGIT/lem-in">lem-in - Pathfinding Algorithm</a></p> -->
 ## 🔨 Projects
-<!-- <h1 align="center">🔨 Projects that I have done:</h1> -->
  
 ### 🌏 Web 
 
