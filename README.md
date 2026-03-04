@@ -10,7 +10,7 @@
 ## 🚀 Side Projects
 
 ### [Breefli](https://breefli.app)
-A personalized news aggregator that pulls from Reddit, RSS, and curated sources into a single feed — with AI-generated daily briefings.
+A personalized news aggregator that pulls from Reddit, RSS, and curated sources into a single feed, with AI-generated daily briefings.
 
 ## 🔨 Projects
 
