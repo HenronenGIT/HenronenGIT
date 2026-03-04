@@ -1,16 +1,16 @@
-## 🧑🏽‍💻 Who am I
+## Who am I
 - 💻 Graduate of [Hive Helsinki](https://www.hive.fi/en/)
 - ⚡️ Offline, you'll find me:
   - Absorbing ideas through books and podcasts 📚
   - Competing on the padel court 🎾
   - Framing landscapes through a viewfinder 📷
 
-## 🚀 Side Projects
+## Side Projects
 
 ### [Breefli](https://breefli.app)
 A personalized news aggregator that pulls from Reddit, RSS, and curated sources into a single feed, with AI-generated daily briefings.
 
-## 🔨 Projects
+## Projects
 
 ### 🌏 Web
 - [Mobile App with React-Native](https://github.com/HenronenGIT/fso_part10)
@@ -19,19 +19,19 @@ A personalized news aggregator that pulls from Reddit, RSS, and curated sources 
 - [Docker-1](https://github.com/HenronenGIT/Docker-1) - Containerization
 - [Delivery Fee](https://github.com/HenronenGIT/wolt-pre-assignment-backend) - Python backend API with FastAPI
 
-### 🧑🏽‍💻 Problem Solving
+### Problem Solving
 - [Corewar](https://github.com/HenronenGIT/corewar) - The game that plays itself
 - [Lem-in](https://github.com/HenronenGIT/lem-in) - Pathfinding algorithm
 - [Push-swap](https://github.com/HenronenGIT/Push_swap) - Sorting algorithm
 - [ft_printf](https://github.com/HenronenGIT/ft_printf) - Self-made `printf()`
 - [Fillit](https://github.com/HenronenGIT/Fillit) - Tetris, but not quite...
 
-### 🖥️ System and Network Administration
+### System and Network Administration
 - [Roger-Skyline-1](https://github.com/HenronenGIT/roger-skyline-1) - Introduction to system administration
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
