@@ -12,7 +12,7 @@ A personalized news aggregator that pulls from Reddit, RSS, and curated sources 
 
 ## Projects
 
-### 🌏 Web
+### Web
 - [Mobile App with React-Native](https://github.com/HenronenGIT/fso_part10)
 - [Full Stack Open](https://github.com/HenronenGIT/fullstackopen_2022) - Web with modern tech
 - [Blog](https://github.com/HenronenGIT/slush-assignment) - Full Stack application made with PERN stack
