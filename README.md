@@ -1,7 +1,6 @@
 # Henri Nerdrum
 
 ## 🧑🏽‍💻 Who am I
-- ❄️ Currently building [Breefli](https://breefli.app) — a personalized news aggregator with AI briefings
 - 💻 Graduate of [Hive Helsinki](https://www.hive.fi/en/)
 - ⚡️ Offline, you'll find me:
   - Absorbing ideas through books and podcasts 📚
