@@ -1,3 +1,5 @@
+<img src="./pic/banner.gif"></img>
+
 ## Who am I
 - 💻 Graduate of [Hive Helsinki](https://www.hive.fi/en/)
 - ⚡️ Offline, you'll find me:
