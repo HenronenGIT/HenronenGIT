@@ -12,7 +12,7 @@
 ### [Breefli](https://breefli.app)
 A personalized news aggregator that pulls from Reddit, RSS, and curated sources into a single feed, with AI-generated daily briefings.
 
-## Projects
+## Legacy Projects
 
 ### Web
 - [Mobile App with React-Native](https://github.com/HenronenGIT/fso_part10)
