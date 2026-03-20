@@ -9,7 +9,7 @@
 
 ## Side Projects
 
-### [Breefli]([https://breefli.app](https://app.breefli.app/))
+### [Breefli](https://app.breefli.app/)
 A personalized news aggregator that pulls from Reddit, RSS, and curated sources into a single feed, with AI-generated daily briefings.
 
 ## Legacy Projects
