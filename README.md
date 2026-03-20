@@ -1,6 +1,6 @@
 <img src="./pic/banner.gif"></img>
 
-## Who am I
+## Keeping it brief.
 - 💻 Graduate of [Hive Helsinki](https://www.hive.fi/en/)
 - ⚡️ Offline, you'll find me:
   - Absorbing ideas through books and podcasts 📚
