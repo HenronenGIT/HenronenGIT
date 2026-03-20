@@ -12,6 +12,9 @@
 ### [Breefli](https://app.breefli.app/)
 A personalized news aggregator that pulls from Reddit, RSS, and curated sources into a single feed, with AI-generated daily briefings.
 
+### [Photography Portfolio](https://https://photos.henrimaronen.com)
+A full-stack photography portfolio with a custom GCS + Cloudflare image delivery pipeline, WebP thumbnail generation, and a stand-alone Go backend.
+
 ## Legacy Projects
 
 ### Web
