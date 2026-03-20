@@ -1,7 +1,8 @@
 <img src="./pic/banner.gif"></img>
 
 ## Keeping it brief.
-- 💻 Graduate of [Hive Helsinki](https://www.hive.fi/en/)
+- 🔨 Builder
+- 💻 Alumnus of [Hive Helsinki](https://www.hive.fi/en/)
 - ⚡️ Offline, you'll find me:
   - Absorbing ideas through books and podcasts 📚
   - Competing on the padel court 🎾
