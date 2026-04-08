@@ -11,7 +11,7 @@
 ## Side Projects
 
 ### [Breefli](https://app.breefli.app/)
-A personalized news aggregator that pulls from Reddit, RSS, and curated sources into a single feed, with AI-generated daily briefings.
+A personalized news aggregator that pulls information sources of your choice into a single feed, and writes AI-enhanced daily briefings based on top articles.
 
 ### [Photography Portfolio](https://photos.henrimaronen.com/)
 A full-stack photography portfolio with a custom GCS + Cloudflare image delivery pipeline, WebP thumbnail generation, and a stand-alone Go backend.
