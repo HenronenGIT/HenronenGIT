@@ -18,6 +18,8 @@ A full-stack photography portfolio with a custom GCS + Cloudflare image delivery
 
 ### [OpenClaw VPS](https://github.com/HenronenGIT/openclaw-configs)
 
+Configuration guide and references for running OpenClaw on a hosted VPS.
+
 ## Legacy Projects
 
 ### Web
