@@ -16,6 +16,8 @@ A personalized news aggregator that pulls information sources of your choice int
 ### [Photography Portfolio](https://photos.henrimaronen.com/)
 A full-stack photography portfolio with a custom GCS + Cloudflare image delivery pipeline, WebP thumbnail generation, and a stand-alone Go backend.
 
+### [OpenClaw VPS](https://github.com/HenronenGIT/openclaw-configs)
+
 ## Legacy Projects
 
 ### Web
