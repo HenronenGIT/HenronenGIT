@@ -10,7 +10,7 @@
 
 ## Side Projects
 
-### [Breefli](https://app.breefli.app/)
+### [Breefli](https://app.breefli.app/feed)
 A personalized news aggregator that pulls information sources of your choice into a single feed, and writes AI-enhanced daily briefings based on top articles.
 
 ### [Photography Portfolio](https://photos.henrimaronen.com/)
